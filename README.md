@@ -1,5 +1,5 @@
-# beacon_maker_epitech
-Very little project about using Eddystone beacons with android
+# QR Code Reader
 
-- An Android application for scanning and retrieving beacons informations and data.
-- Google Eddystone beacon developped to give an information about something presented next to it.
+This project is about reading a QR Code to retrieve a web address, using an Android phone and its camera
+
+It can be use for a treasure hunt or an orienteering

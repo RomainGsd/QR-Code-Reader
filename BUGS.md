@@ -1,1 +1,1 @@
-hum.
+Application crashes when trying to visit something which isn't a web address
